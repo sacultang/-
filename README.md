@@ -1,8 +1,9 @@
 # 정규표현식(RegExp)
+정규식, Regular Expression
+
 ## 참고 블로그
 https://heropy.blog/2018/10/28/regexp/  
 
-정규식, Regular Expression
 
 ## 역할
 
